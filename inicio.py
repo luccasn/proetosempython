@@ -31,4 +31,22 @@ print(c)
   type(var)
   palavra = 'Dia de Sol'
   print(var + var2)
-  
+
+
+
+######IMPUT tudo que for atribuido no input fica dentro da variavel
+nome = input ('Seu nome?')
+## exemplo idade = input('sua idade?')
+print(nome)
+
+idade = input('sua idade')
+print(idade)
+
+print(idade)
+
+#atribuir um tipo para uma variavel int(input)
+idade = int(input('sua idade'))
+
+
+
+
