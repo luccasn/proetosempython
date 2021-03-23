@@ -7,9 +7,7 @@ class SimuladorDeDado:
         self.valor_minimo = 1
         self.valor_maximo = 6
         self.mensagem = 'voce gostaria de jogar novamente'
-        layout = ´[
-            [sg.]
-        ]
+        layout =
 
         def Iniciar(self):
             resposta = input(self.mensagem)
